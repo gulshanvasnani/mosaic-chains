@@ -7,7 +7,7 @@ import ChainInfo from './ChainInfo';
 import NodeDescription from './NodeDescription';
 import Logger from '../Logger';
 
-const DEV_CHAIN_DOCKER = 'gulshanvasnani/custom';
+const DEV_CHAIN_DOCKER = 'gulshanvasnani/custom:latest';
 /**
  * Represents a geth node that runs in a docker container.
  */
